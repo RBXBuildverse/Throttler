@@ -1,0 +1,6 @@
+{
+	"name": "Throttler",
+	"tree": {
+		"$path": "src.luau"
+	}
+}

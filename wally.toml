@@ -1,0 +1,14 @@
+### Throttler: Throttling library for easy creation of rate limiters and debounces
+### The Buildverse Group | 18 of March 2024
+### Authored by omwot
+
+[package]
+
+name = "buildverse/throttler"
+description = "Throttling library for easy creation of rate limiters and debouces"
+version = "1.0.0"
+authors = ["omwot"]
+
+license = "mit"
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"

@@ -1,0 +1,17 @@
+{
+	"name": "Throttler-DEV",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+
+			"Throttler": {
+				"$path": "default.project.json",
+				"Tests": {
+					"$path": "Tests"
+				}
+			}
+		}
+	}
+}
